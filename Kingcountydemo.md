@@ -1,4 +1,4 @@
-#This is my King County visualization.#
+# This is my King County visualization.
 
 Some other text here.
 
