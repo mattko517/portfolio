@@ -10,4 +10,4 @@
 
 ## Here's another visualization for looking at the same data
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298986"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-*This data visualization lets us explore individual countries even deeper than the last visualization.
+*This data visualization lets us explore individual countries even deeper than the last visualization.*
