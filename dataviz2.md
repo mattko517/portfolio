@@ -5,4 +5,4 @@
 
 ## Government debt by country from 1995 to 2018
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298843"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Tracking government debt seperately across time can help give a better economic snapshot compared to the first chart.
+*Tracking government debt seperately across time can help give a better economic snapshot compared to the first chart.*
