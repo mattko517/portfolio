@@ -13,4 +13,8 @@ I started by wireframing a solution to my original data visualization critique. 
 
 ![](https://github.com/mattko517/portfolio/blob/main/Sketch.png?raw=true)
 
-Although I knew this was far from the finished product, I wanted to know what other people thought before proceeding so I shared these sketches with some peers to get their opinions and to see what I could improve on. I told them my goals for this data visualization, and I also showed them the original one from the FAO. Most of the feedback I received revolved around clarity and confusion on what they were looking at. It was difficult to decipher my initial sketches and I wasn't able to show how the different regions were changing over time because of all the stuff going on in my visualization. 
+Although I knew this was far from the finished product, I wanted to know what other people thought before proceeding so I shared these sketches with some peers to get their opinions and to see what I could improve on. I told them my goals for this data visualization, and I also showed them the original one from the FAO. Most of the feedback I received revolved around clarity and confusion on what they were looking at. It was difficult to decipher my initial sketches and I wasn't able to show how the different regions were changing over time because of all the stuff going on in my visualization. Taking this feedback into consideration, I went back to the drawing board. I wanted to keep the line graphs because I thought that they were the easiest to read and to demonstrate the change over time but I agreed that my initial sketches were just as meaningless as the FAO's because of the confusion it caused. My final design led to this
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360049"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I decided to keep the line graphs but separate them by region. 
