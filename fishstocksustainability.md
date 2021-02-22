@@ -20,4 +20,4 @@ Although I knew this was far from the finished product, I wanted to know what ot
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360049"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-I decided to keep the line graphs but separate them by region. 
+I decided to keep the line graphs but separate them by region. Going back to target 14.4 of the SDGs, the goal is to restore fish stocks. I wanted my data visualization to show as clearly as possible if a region's stocks were getting better or worse; something the original FAO visualization failed to do. My visualization makes it easy to see what stocks are doing poorly and to compare between stocks. This is critical to this dataset because we need to know which regions need our focus. Looking at the data, we wouldn't want to increase fishery observing in the Southwest Pacific but rather in the Northwest. This was something you couldn't do with the FAO's visualization.
