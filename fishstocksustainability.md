@@ -3,7 +3,7 @@
 Here's a chart pulled from the FAO's website on target 14.4 of the Sustainable Development Goals.
 
 > By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics.
-> 
+
 (FAO graphic.png)
 
 As you can see, it's a bit difficult to gather a lot of information from the visualization. I set out to make some adjustments to this chart to see if I could create a better data visualization with the same dataset.
