@@ -10,4 +10,4 @@ As you can see, it's a bit difficult to gather a lot of information from the vis
 
 I started by wireframing a solution to my original data visualization critique. My main goals were to create a chart with more gravitas and to declutter/create a better aesthetic for the data. My first few sketches were line graphs that showed each region’s proportion of fish stocks that is at sustainable levels. Here’s one of the sketches I came up with.
 
-Sketch.png
+![](https://github.com/mattko517/portfolio/blob/main/Sketch.png?raw=true)
