@@ -9,7 +9,7 @@ Project Structure
 - Speculate the current unreported catch of the DWF using reports from South America
 - Forecast state of fisheries if we continue as is
 
-# The data
+## The data
 
 My working group sketched an infographic that sheds some light on IUU Fishing in South America. Our goal was to provide the reader with a basic foundation so that they could make educated decisions on the issue. This is one of the rough drafts that we came up with.
 
@@ -32,5 +32,9 @@ GFW is another organization that provides data on fishing activity throughout th
 
 https://globalfishingwatch.org/data-download/
 
+## Method and medium
 
+I plan on using Shorthand to tell my story using data visualizations from Flourish and Tableau. I hope to progress through my project outline in a narrative that clearly explains the historical context and shows possible results based on potential policy implementation.
+
+I would also like to use maps to show the DWFs movements and the ranges of commercially viable species like the Humboldt squid but I'm not sure it's something I will be able to incorporate into Shorthand. 
 
