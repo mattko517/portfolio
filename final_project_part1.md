@@ -25,12 +25,12 @@ The FAO provides catch data on commercial species for all the world's oceans thr
 
 I hope to use this data to illustrate both the historical trend of commercially important species in South American Waters and the potential state of fisheries in the near future. 
 
-http://www.fao.org/fishery/statistics/en
+<http://www.fao.org/fishery/statistics/en>
 
 ***2. Global Fishing Watch***
 GFW is another organization that provides data on fishing activity throughout the world. Global Fishing Watch focuses more on increasing transparency and providing information that is not readily available. I plan to use their data set on transhipment behavior to show how the Chinese DWF can operate year round without leaving the area which is exacerbating the situation. I also want to use their datasets on fishing vessels to speculate how large the DWF's unreported catch is.
 
-https://globalfishingwatch.org/data-download/
+<https://globalfishingwatch.org/data-download/>
 
 ## Method and medium
 
