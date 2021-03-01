@@ -36,5 +36,7 @@ GFW is another organization that provides data on fishing activity throughout th
 
 I plan on using Shorthand to tell my story using data visualizations from Flourish and Tableau. I hope to progress through my project outline in a narrative that clearly explains the historical context and shows possible results based on potential policy implementation.
 
-I would also like to use maps to show the DWFs movements and the ranges of commercially viable species like the Humboldt squid but I'm not sure it's something I will be able to incorporate into Shorthand. 
+I would also like to use maps to show the DWFs movements and the ranges of commercially viable species like the Humboldt squid but I'm not sure it's something I will be able to incorporate into Shorthand like the example below.
+
+![](https://github.com/mattko517/portfolio/blob/main/Chinese%20Fishing%20Fleet%20202.png?raw=true)
 
