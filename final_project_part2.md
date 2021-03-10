@@ -31,4 +31,4 @@ One of the graduate students in my group mentioned that it would be helpful to i
 ## Final Thoughts
 I found this user research to be very informative and I plan on taking all the recommendations I was given and applying them to my project. I've included a link to my shorthand story for reference.
 
-https://preview.shorthand.com/Om9W4IkWbfFgQh9h
+[Shorthand storyboard](https://preview.shorthand.com/Om9W4IkWbfFgQh9h)
