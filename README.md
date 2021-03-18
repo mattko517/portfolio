@@ -10,5 +10,15 @@ I hope to learn how to tailor my data and graphics to specific audiences to elic
 # Portfolio
 Here are some examples of my data visualizations!
 
+[Fish Stock Sustainability](https://mattko517.github.io/portfolio/fishstocksustainability)
+
+[Visualizing Government Debt](https://mattko517.github.io/portfolio/dataviz2.md)
+
+Final Project
+- [Part 1](https://mattko517.github.io/portfolio/final_project_part1)
+- [Part 2](https://mattko517.github.io/portfolio/final_project_part2)
+- [Part 3](https://mattko517.github.io/portfolio/final_project_part3)
+
+
 <iframe title="My take on the Economist viz" aria-label="chart" id="datawrapper-chart-vn5wc" src="https://datawrapper.dwcdn.net/vn5wc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
