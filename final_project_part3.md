@@ -10,8 +10,11 @@ three recommendations and illustrated the costs of IUU fishing in a more effecti
 Some of the changes I made to the final draft were because of my change in audience. 
 I tried to get rid of technical jargon and complex concepts to keep my classmates engaged and help them understand the issue. My final audience
 also changed the layout of the presentation. If I were presenting to my working group, I would have gotten rid of most of the pictures and extra verbiage to focus on the data visualizations.
-Instead, I added graphics and smooth transitions to keep my audience engaged.
+Instead, I added graphics and smooth transitions to keep my audience engaged. Overall, my biggest takeaway from this entire process was the importance of creating a thread through my different data visualizations to tell a story.
 
-My biggest takeaway from this entire process was the importance of creating a thread through my different data visualizations to tell a story.
+Here's a link to my [final project](https://carnegiemellon.shorthandstories.com/the-unseen-threat-of-iuu-fishing-by-distant-water-fleets-in-south-america/index.html)
 
-Here's a link to my final (project)[https://carnegiemellon.shorthandstories.com/the-unseen-threat-of-iuu-fishing-by-distant-water-fleets-in-south-america/index.html]
+### References
+1. [FAO FishStat](http://www.fao.org/fishery/statistics/software/fishstatj/en)
+2. [SPRFMO](https://www.sprfmo.int/assets/2020-SC8/Report/SPRFMO-SC8-Report-2020.pdf)
+3. [FAO The State of World FIsheries and Aquaculture 2020](http://www.fao.org/documents/card/en/c/ca9229en/)
